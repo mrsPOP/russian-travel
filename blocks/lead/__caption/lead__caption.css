@@ -12,16 +12,17 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .lead__subtitle {
+  .lead__caption {
     max-width: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .lead__subtitle {
-    font-size: 4vw;
-    line-height: 4.4vw;
+  .lead__caption {
+    font-size: 10px;
+    line-height: 14px;
     max-width: 640px;
+    margin-left: 24px;
   }
 }
 
@@ -29,5 +30,6 @@
   .lead__caption {
     font-size: 10px;
     line-height: 14px;
+    margin-left: 16px;
   }
 }

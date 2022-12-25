@@ -11,6 +11,7 @@
     grid-column: auto;
     grid-row: auto;
     order: -2;
+    margin: 0 16px;
   }
 }
 
