@@ -1,5 +1,4 @@
 .cover {
-  margin: 0;
   padding: 0;
   margin: 0 48px 92px;
   background-image: url('../../images/поезда.png');
@@ -18,7 +17,7 @@
 
 @media screen and (max-width: 1024px) {
   .cover {
-    margin: 0 0 92px;
+    margin-bottom: 92px;
     width: 100%;
     padding-bottom: 62.5%;
   }
